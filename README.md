@@ -3,6 +3,7 @@ Chengdu-Bus
 download https://bootstrap.pypa.io/get-pip.py
 
 C:\Python26\Scripts>python get-pip.py
+
 C:\Python26\Scripts>pip.exe install requests
 
 # Use requests to fetch urls (if available)
