@@ -15,3 +15,5 @@ Downloading/unpacking cssselect (from pyquery)
 Installing collected packages: pyquery, lxml, cssselect
 Successfully installed pyquery lxml cssselect
 
+C:\Python26\Scripts>pip.exe install pymongo
+
